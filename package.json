@@ -1,0 +1,25 @@
+{
+  "name": "simple-file-watcher",
+  "version": "0.0.1",
+  "description": "A webpack loader module which will cause, browser reload whenever the given file is changed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harish2704/webpack-simple-file-watcher.git"
+  },
+  "keywords": [
+    "webpack",
+    "express",
+    "template",
+    "hot-reload"
+  ],
+  "author": "Harish.K <harish2704@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harish2704/webpack-simple-file-watcher/issues"
+  },
+  "homepage": "https://github.com/harish2704/webpack-simple-file-watcher#readme"
+}
